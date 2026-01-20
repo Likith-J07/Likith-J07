@@ -1,6 +1,6 @@
 # Hi, I'm Likith J 
 
-🎓 MCA Student | 💻 Aspiring Data Scientist & Cybersecurity Enthusiast  
+🎓 MCA Student | 💻 Aspiring Data Analyst & Cybersecurity Enthusiast  
 📍 India
 
 ---
