@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Likith J 👋
 
-<!--
-**Likith-J07/Likith-J07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Aspiring Data Scientist & Cybersecurity Enthusiast  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Passionate about **Machine Learning, Cybersecurity, and Python**
+- Built real-world projects using **Flask, ML, QR Systems**
+- Interested in **SOC, Network Security, and Data Science**
+
+---
+
+### 🚀 Featured Projects
+-
+
+- 🔗 **AI Network Traffic Threat Detection**  
+  👉 https://github.com/Likith-J07/network-traffic-threat-detection
+
+
+
+---
+
+### 🛠️ Languages & Tools
+Python • Flask • SQL • Linux • Git • Machine Learning • Networking
+
+---
+
+### 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/likith-j-9b6558386  
+- GitHub: https://github.com/Likith-J07
