@@ -13,12 +13,14 @@
 ---
 
 ### 🚀 Featured Projects
--
+- 🔗 **QR Code Based Smart Parking Fee Billing System**  
+  👉 https://github.com/Likith-J07/qr-smart-parking-billing
 
 - 🔗 **AI Network Traffic Threat Detection**  
   👉 https://github.com/Likith-J07/network-traffic-threat-detection
 
-
+- 🔗 **Handwritten Digit Recognition (MNIST)**  
+  👉 https://github.com/Likith-J07/mnist-digit-recognition
 
 ---
 
