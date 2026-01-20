@@ -1,4 +1,4 @@
-# Hi, I'm Likith J 👋
+# Hi, I'm Likith J 
 
 🎓 MCA Student | 💻 Aspiring Data Scientist & Cybersecurity Enthusiast  
 📍 India
