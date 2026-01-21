@@ -14,7 +14,7 @@
 
 ### 🚀 Featured Projects
 - 🔗 **Phishing-Website-Detection**  
-  👉 https://github.com/Likith-J07/qr-smart-parking-billing
+  👉 https://github.com/Likith-J07/Phishing-Url-Detection
 
 - 🔗 **AI Network Traffic Threat Detection**  
   👉 https://github.com/Likith-J07/network-traffic-threat-detection
