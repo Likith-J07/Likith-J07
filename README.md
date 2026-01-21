@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Featured Projects
-- 🔗 **QR Code Based Smart Parking Fee Billing System**  
+- 🔗 **Phishing-Website-Detection**  
   👉 https://github.com/Likith-J07/qr-smart-parking-billing
 
 - 🔗 **AI Network Traffic Threat Detection**  
