@@ -20,7 +20,7 @@
   👉 https://github.com/Likith-J07/network-traffic-threat-detection
 
 - 🔗 **Handwritten Digit Recognition (MNIST)**  
-  👉 https://github.com/Likith-J07/mnist-digit-recognition
+  👉 https://github.com/Likith-J07/handwritten-digit-recognition-ml
 
 ---
 
