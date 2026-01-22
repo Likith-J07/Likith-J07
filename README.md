@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - Passionate about **Machine Learning, Cybersecurity, and Python**
-- Built real-world projects using **Flask, ML, QR Systems**
+- Built real-world projects using **Flask, ML**
 - Interested in **SOC, Network Security, and Data Science**
 
 ---
